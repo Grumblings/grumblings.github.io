@@ -9,7 +9,7 @@ name: Grumblings
 description: Grumpy thoughts about stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://londoniscool.com/wp-content/uploads/2010/08/grumpy.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/grumpy.jpg
 
 #
 # Flags below are optional
